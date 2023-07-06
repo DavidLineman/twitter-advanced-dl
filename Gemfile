@@ -37,6 +37,8 @@ gem 'mail', '>= 2.8.0.rc1'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
+gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
